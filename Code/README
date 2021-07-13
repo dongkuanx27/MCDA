@@ -1,0 +1,11 @@
+*******************
+  SDM-2021-MCDA
+*******************
+
+1. Code:
+	-- The main function is "MICLAPSCAP.py"
+	-- Revise the data path at Line 370
+
+2. Implementation:
+	-- In the framework of Tensorflow
+	-- Python 3
