@@ -1,0 +1,4 @@
+*******************
+1. The main function is "MICLAPSCAP.py"
+2. In the framework of Tensorflow
+3. Python 3
